@@ -6,3 +6,4 @@ F:\Tutorial\DatingApp\DatingApp.Model\obj\Debug\netcoreapp2.2\DatingApp.Model.As
 F:\Tutorial\DatingApp\DatingApp.Model\obj\Debug\netcoreapp2.2\DatingApp.Model.AssemblyInfo.cs
 F:\Tutorial\DatingApp\DatingApp.Model\obj\Debug\netcoreapp2.2\DatingApp.Model.dll
 F:\Tutorial\DatingApp\DatingApp.Model\obj\Debug\netcoreapp2.2\DatingApp.Model.pdb
+F:\Tutorial\DatingApp\DatingApp.Model\obj\Debug\netcoreapp2.2\DatingApp.Model.csprojAssemblyReference.cache

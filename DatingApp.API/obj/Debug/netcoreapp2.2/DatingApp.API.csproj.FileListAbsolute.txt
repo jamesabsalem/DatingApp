@@ -1,4 +1,8 @@
+F:\Tutorial\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.deps.json
+F:\Tutorial\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.json
+F:\Tutorial\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.dev.json
 F:\Tutorial\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.dll
+F:\Tutorial\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.pdb
 F:\Tutorial\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.Data.dll
 F:\Tutorial\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.Model.dll
 F:\Tutorial\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.Data.pdb
@@ -10,5 +14,6 @@ F:\Tutorial\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorA
 F:\Tutorial\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfoInputs.cache
 F:\Tutorial\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfo.cs
 F:\Tutorial\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorTargetAssemblyInfo.cache
+F:\Tutorial\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csproj.CopyComplete
 F:\Tutorial\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.dll
 F:\Tutorial\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.pdb
