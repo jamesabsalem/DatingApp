@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp.API", "DatingApp.API\DatingApp.API.csproj", "{3C28F56C-D3FD-4FA8-AC31-A09463AE3BA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp.Data", "DatingApp.Data\DatingApp.Data.csproj", "{01207B90-FCE8-44E2-BAEE-0679587D0AAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp.Model", "DatingApp.Model\DatingApp.Model.csproj", "{0AEB2836-2E8F-42DC-8085-F47A222231AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C28F56C-D3FD-4FA8-AC31-A09463AE3BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C28F56C-D3FD-4FA8-AC31-A09463AE3BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C28F56C-D3FD-4FA8-AC31-A09463AE3BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C28F56C-D3FD-4FA8-AC31-A09463AE3BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01207B90-FCE8-44E2-BAEE-0679587D0AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01207B90-FCE8-44E2-BAEE-0679587D0AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01207B90-FCE8-44E2-BAEE-0679587D0AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01207B90-FCE8-44E2-BAEE-0679587D0AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AEB2836-2E8F-42DC-8085-F47A222231AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AEB2836-2E8F-42DC-8085-F47A222231AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AEB2836-2E8F-42DC-8085-F47A222231AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AEB2836-2E8F-42DC-8085-F47A222231AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2006DAFF-60DE-411A-B92E-5FDAABBC95F3}
+	EndGlobalSection
+EndGlobal

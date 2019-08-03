@@ -1,0 +1,12 @@
+F:\Tutorial\DatingApp\DatingApp.Data\bin\Release\netcoreapp2.2\DatingApp.Data.deps.json
+F:\Tutorial\DatingApp\DatingApp.Data\bin\Release\netcoreapp2.2\DatingApp.Data.dll
+F:\Tutorial\DatingApp\DatingApp.Data\bin\Release\netcoreapp2.2\DatingApp.Data.pdb
+F:\Tutorial\DatingApp\DatingApp.Data\bin\Release\netcoreapp2.2\DatingApp.Model.dll
+F:\Tutorial\DatingApp\DatingApp.Data\bin\Release\netcoreapp2.2\DatingApp.Model.pdb
+F:\Tutorial\DatingApp\DatingApp.Data\obj\Release\netcoreapp2.2\DatingApp.Data.csprojAssemblyReference.cache
+F:\Tutorial\DatingApp\DatingApp.Data\obj\Release\netcoreapp2.2\DatingApp.Data.csproj.CoreCompileInputs.cache
+F:\Tutorial\DatingApp\DatingApp.Data\obj\Release\netcoreapp2.2\DatingApp.Data.AssemblyInfoInputs.cache
+F:\Tutorial\DatingApp\DatingApp.Data\obj\Release\netcoreapp2.2\DatingApp.Data.AssemblyInfo.cs
+F:\Tutorial\DatingApp\DatingApp.Data\obj\Release\netcoreapp2.2\DatingApp.Data.csproj.CopyComplete
+F:\Tutorial\DatingApp\DatingApp.Data\obj\Release\netcoreapp2.2\DatingApp.Data.dll
+F:\Tutorial\DatingApp\DatingApp.Data\obj\Release\netcoreapp2.2\DatingApp.Data.pdb
