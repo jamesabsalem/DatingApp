@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Tutorial\\DatingApp\\datingapp.api\\DatingApp.API.csproj": {}
+    "F:\\Tutorial\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "F:\\Tutorial\\DatingApp\\datingapp.api\\DatingApp.API.csproj": {
+    "F:\\Tutorial\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Tutorial\\DatingApp\\datingapp.api\\DatingApp.API.csproj",
+        "projectUniqueName": "F:\\Tutorial\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "F:\\Tutorial\\DatingApp\\datingapp.api\\DatingApp.API.csproj",
+        "projectPath": "F:\\Tutorial\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\LIN2\\.nuget\\packages\\",
-        "outputPath": "F:\\Tutorial\\DatingApp\\datingapp.api\\obj\\",
+        "outputPath": "F:\\Tutorial\\DatingApp\\DatingApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -50,6 +50,10 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
