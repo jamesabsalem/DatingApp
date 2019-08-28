@@ -34,7 +34,6 @@ namespace DatingApp.Data
         {
             using (var cn = new SqlConnection(_connectionString))
             {
-                await cn.OpenAsync();
                 var users = await cn.QueryAsync<User>(
                     "sp_get_users", commandType: CommandType.StoredProcedure);
                 return users;
@@ -47,12 +46,28 @@ namespace DatingApp.Data
             {
                 var parameters = new DynamicParameters();
                 parameters.Add("@user_id", userId);
-                await cn.OpenAsync();
                 var photo = await cn.QueryAsync<Photos>("sp_get_photo", parameters,
                     commandType: CommandType.StoredProcedure);
                 return photo;
             }
         }
 
+        public async Task<bool> UserUpdate(int id, User user)
+        {
+            using (var cn = new SqlConnection(_connectionString))
+            {
+                var parameters = new DynamicParameters();
+                parameters.Add("@id", id);
+                parameters.Add("@introduction", user.Introduction);
+                parameters.Add("@looking_for", user.LookingFor);
+                parameters.Add("@interests", user.Interests);
+                parameters.Add("@city", user.City);
+                parameters.Add("@country", user.Country);
+                await cn.OpenAsync();
+                var isUpdate = await cn.ExecuteAsync("sp_update_user", parameters,
+                    commandType: CommandType.StoredProcedure) > 0;
+                return isUpdate;
+            }
+        }
     }
 }
